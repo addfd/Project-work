@@ -3,6 +3,7 @@
 
 ## Зависимости
 + pyserial
++ time
 + custom tkinter
 + adafruit neopixel
 + servo
